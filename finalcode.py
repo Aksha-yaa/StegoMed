@@ -138,7 +138,7 @@ def main():
                 print(f"⚠️ Error during decryption: {e}")
 
         elif choice == '3':
-            print("\n👋 Exiting Stego Med. Stay secure, Akshaya!")
+            print("\n👋 Exiting Stego Med. Stay secure!")
             break
 
         else:
